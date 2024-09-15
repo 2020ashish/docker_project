@@ -9,7 +9,7 @@ All components are docker-based
 
 ## Credits
 
-This project was forked from [Original Repository Name](https://gitlab.com/nanuchi/techworld-js-docker-demo-app.git). 
+This project was forked from [techworld-js-docker-demo-app](https://gitlab.com/nanuchi/techworld-js-docker-demo-app.git). 
 
 **Original Author(s):** [Nana Janashia]  
 **Original Repository:** [https://github.com/original-owner/original-repo](https://gitlab.com/nanuchi/techworld-js-docker-demo-app.git)

@@ -8,6 +8,21 @@ This demo app shows a simple user profile app set up using
 All components are docker-based
 
 ### With Docker
+## demo app - developing with Docker
+
+This demo app shows a simple user profile app set up using 
+- index.html with pure js and css styles
+- nodejs backend with express mode
+- mongodb for data storage
+
+All components are docker-based
+
+## Credits
+
+This project was forked from [techworld-js-docker-demo-app](https://gitlab.com/nanuchi/techworld-js-docker-demo-app.git). 
+
+**Original Author(s):** [Nana Janashia]  
+**Original Repository:** [https://github.com/original-owner/original-repo](https://gitlab.com/nanuchi/techworld-js-docker-demo-app.git)
 
 #### To start the application
 

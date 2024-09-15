@@ -7,6 +7,14 @@ This demo app shows a simple user profile app set up using
 
 All components are docker-based
 
+## Credits
+
+This project was forked from [Original Repository Name](https://gitlab.com/nanuchi/techworld-js-docker-demo-app.git). 
+
+**Original Author(s):** [Nana Janashia]  
+**Original Repository:** [https://github.com/original-owner/original-repo](https://gitlab.com/nanuchi/techworld-js-docker-demo-app.git)
+
+## Installation
 #### To start the application
 
 Step 1: start mongodb and mongo-express
